@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    <string name="dbsbank">DBS</string>
+    <string name="ocbcbank">OCBC</string>
+    <string name="uobbank">UOB</string>
+</resources>
