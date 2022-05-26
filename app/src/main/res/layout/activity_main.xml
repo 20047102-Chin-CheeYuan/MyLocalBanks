@@ -22,11 +22,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="3"
-        android:background="#203A85"
+        android:background="#4266CD"
         android:gravity="center"
         android:text="@string/ocbcbank"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
-        android:textColor="#FFFFFF" />
+        android:textColor="#000000" />
 
     <TextView
         android:id="@+id/textViewUOB"
@@ -36,6 +36,7 @@
         android:background="#8ED54F"
         android:gravity="center"
         android:text="@string/uobbank"
-        android:textAppearance="@style/TextAppearance.AppCompat.Display2" />
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#000000" />
 
 </LinearLayout>
